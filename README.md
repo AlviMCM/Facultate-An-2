@@ -2,7 +2,3 @@
 
 
 <a href="./Excalidraw">Link</a>
-
-Sync with git
-
-New pull request!
