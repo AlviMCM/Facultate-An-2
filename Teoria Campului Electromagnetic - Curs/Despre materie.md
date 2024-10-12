@@ -13,3 +13,5 @@ Cunoasterea legilor campului electromagnetic, a marimilor specifice constitutive
 **Oficiu**: 1 pct.
 
 **Laborator**: Admis/Respins.
+
+TEST
