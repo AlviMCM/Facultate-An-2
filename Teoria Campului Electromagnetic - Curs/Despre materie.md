@@ -14,4 +14,5 @@ Cunoasterea legilor campului electromagnetic, a marimilor specifice constitutive
 
 **Laborator**: Admis/Respins.
 
-TEST
+
+

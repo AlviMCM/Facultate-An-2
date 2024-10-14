@@ -15,3 +15,4 @@ $\rho=lim_{dv\to0}{\frac{dq}{dv}}$
 $dq=\rho_\nu*d\nu$
 $q=\int_{v}{\rho_\nu*dv}$
 $f_L=\frac{1}{2 \pi r c}; \hspace{10mm} A_l=\frac{U_{ies}}{U_{int}}=\frac{1}{\sqrt{2}}$
+
