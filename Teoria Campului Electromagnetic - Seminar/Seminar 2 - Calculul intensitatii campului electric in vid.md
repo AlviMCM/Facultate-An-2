@@ -67,3 +67,4 @@ E_{e}=\frac{\varphi_{S}a}{r\epsilon_{0}}\left[ \frac{V}{M} \right]\\
 \end{gathered}
 $$
 ---
+![[Seminar 2 - Calculul intensitatii campului electric in vid 2024-10-15 14.14.14.excalidraw]]
