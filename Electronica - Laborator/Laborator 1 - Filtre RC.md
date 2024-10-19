@@ -6,25 +6,25 @@ In imaginea alaturata ne este prezentata intrarea si iesirea unui semnal de $1KH
 # Imaginea 2
 
 Efectul de atentuare al filtrului se poate observa mai in detaliu in figura alaturata. Frecventa semnalului de intrare fiind cu mult mai mica decat frecventa de prag se poate observa faptul ca amplitudinea semnalului a scazut drastic.
-![[Poza2.jpg]]
+![[Poza2.jpg|500]]
 
 # Imaginea 3
 
 In aceasta imagine putem deduce ca frecventa semnalului de intrare este acelasi sau mai mare decat frecventa de prag a filtrului, astfel se poate observa ca amplitudinea semnalului de intrare este acelasi cu amplitudinea semnalului de iesire si nu se mai poate observa efectul de atenuare.
-![[Poza3.jpg]]
+![[Poza3.jpg|500]]
 
 # Imaginea 4
 
 Aici se poate observa ca semnalul si-a schimbat forma de sinusoida intr-un semnal de **puls in DC (curent continuu)** cu frecventa de $1KHz$. Se poate observa cum amplitudinea semnalului de iesire este atenuata exponential la fiecare modificare a tensiunii de intrare.
-![[Poza4.jpg]]
+![[Poza4.jpg|500]]
 
 # Imaginea 5
 
 La fel ca si in figura de mai sus se poate observa acelasi efect, doar ca atenuarea este mai agresiva decat inainte.
-![[Poza5.jpg]]
+![[Poza5.jpg|500]]
 
 
 # Imaginea 6
 
 Asemanator cu **imaginea 3** se se poate observa ca am atins sau depasit frecventa de prag, fiind ca amplitudinile semnalelor sunt identice si nu se atenueaza (posibil proba de tensiune de iesire este decalibrata). De asemenea se poate observa un **offset de 1 volt** intre cele 2 semnale.
-![[Poza6.jpg]]
+![[Poza6.jpg|500]]
