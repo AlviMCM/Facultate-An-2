@@ -1,7 +1,7 @@
 # Imaginea 1 + explicatie semnale
 
 In imaginea alaturata ne este prezentata intrarea si iesirea unui semnal de $1KHz$ in circuitul filtrului pasiv RC "Trece Sus". Semnalul de intrare este cel cu **galben** iar iesirea este cu **albastru**. Se poate observa faptul ca semnalul de iesire este defazat fata de cel de intrare, el pornind mai repede. De altfel se mai poate observa caracteristica specifica filtrului trece sus, care atenueaza din amplitudinea semnalului de iesire fata de cel de intrare(fiind ca semnalul de intrare nu a depasit sau egalat frecventa de prag).
-![](Poza1.jpg|500)
+![[Poza1.jpg|500]]
 
 # Imaginea 2
 
