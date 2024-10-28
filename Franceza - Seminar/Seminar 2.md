@@ -20,5 +20,3 @@ Le kodak huit cent soixante-dix ... deux cent quatre-vinght-dix-neuf euros
 	91:
 		le/la quatre-vingt-onzieme
 # Exercitiul 3
-
-1. 02 
